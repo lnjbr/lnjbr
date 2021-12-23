@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ljbr
+- 👋 Hi, I’m @lnjbr
 - 👀 I’m interested in in learning everything forever
 - 🌱 I’m currently learning LUA for 2d game development and JavaScript (node, react, etc)
 - 📫 How to reach me ... I'm 5'2, it shouldn't be too hard
